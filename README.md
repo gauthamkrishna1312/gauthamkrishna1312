@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gautham Krishna P
 - 👀 I’m interested in Problem Solving via technology
 - 🌱 I’m currently learning Webdevelopment and engineering
-- 💞️ I’m looking to collaborate on works that simplifies the human efferts
+- 💞️ I’m looking to collaborate on works that simplifies human efferts
 - 📫 How to reach me via e-mail gauthamkrishna1312@gmail.com
 
 <!---
