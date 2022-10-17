@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Webdevelopment and engineering
 - 💞️ I’m looking to collaborate on works that simplifies human efferts
 - 📫 How to reach me via e-mail gauthamkrishna1312@gmail.com
+- [Visit my space](https://gauthamkrishna.netlify.app)
+- [Connect me on linkdin](https://www.linkedin.com/in/gautham-krishna-p-2bb4781b3/)
+- [Connect me on instagram](https://www.instagram.com/c_tech_guy)
 
 <!---
 gauthamkrishna1312/gauthamkrishna1312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
