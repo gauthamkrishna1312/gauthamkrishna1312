@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Gautham Krishna P
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi I'm Gautham Krishna P</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauthamkrishna1312&label=Profile%20views&color=0e75b6&style=flat" alt="gauthamkrishna1312" /> </p>
+
+
 - 👀 I’m interested in Problem Solving via technology
 - 🌱 I’m currently learning Webdevelopment and engineering
 - 💞️ I’m looking to collaborate on works that simplifies human efferts
