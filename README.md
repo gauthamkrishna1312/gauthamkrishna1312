@@ -1,15 +1,49 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi I'm Gautham Krishna P</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi, I'm Gautham Krishna P
+</h1>
 
-- 👀 I’m interested in Problem Solving via technology
-- 🌱 I’m currently learning Webdevelopment and engineering
-- 💞️ I’m looking to collaborate on works that simplifies human efferts
-- 📫 How to reach me via e-mail gauthamkrishna1312@gmail.com
-- [Visit my space](https://gauthamkrishna.netlify.app)
-- [Connect me on linkdin](https://www.linkedin.com/in/gautham-krishna-p-2bb4781b3/)
-- [Connect me on instagram](https://www.instagram.com/c_tech_guy)
+<p align="center">
+  👨‍💻 Developer | AI/ML Enthusiast | Problem Solver
+</p>
 
-<!---
-gauthamkrishna1312/gauthamkrishna1312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+## 🚀 About Me
+
+- 👀 I’m passionate about **solving real-world problems with technology**.
+- 🌱 Currently learning **Web Development**, **Software Engineering**, and **Artificial Intelligence**.
+- 🤖 Skilled in building **LLMs**, **regression models**, and other **AI solutions**.
+- 💡 I love creating projects that **simplify human effort** through innovation.
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 **Languages**: Python, JavaScript, HTML, CSS
+- 🌐 **Web**: Django, React, Node.js
+- 🤖 **AI/ML**: scikit-learn, PyTorch, TensorFlow
+- 📊 **Data Science**: Pandas, NumPy, Matplotlib
+- ⚙️ **Tools**: Git, VSCode, Jupyter Notebook
+- ☁️ **Deployment**: Netlify, Vercel
+
+---
+
+## 🤝 Let’s Connect
+
+- 📫 Email: [gauthamkrishna1312@gmail.com](mailto:gauthamkrishna1312@gmail.com)
+- 🌐 [Visit my portfolio](https://gauthamkrishna.netlify.app)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/gautham-krishna-p-2bb4781b3/)
+- 📸 [Follow on Instagram](https://www.instagram.com/c_tech_guy)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauthamkrishna1312&show_icons=true&theme=radical" alt="Gautham's GitHub stats" />
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to reach out and collaborate on exciting tech projects.*
