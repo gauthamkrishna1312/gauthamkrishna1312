@@ -32,7 +32,7 @@
 ## 🤝 Let’s Connect
 
 - 📫 Email: [gauthamkrishna1312@gmail.com](mailto:gauthamkrishna1312@gmail.com)
-- 🌐 [Visit my portfolio](https://gauthamkrishna.netlify.app)
+- 🌐 [Visit my portfolio](https://gauthamkrishnap.netlify.app)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/gautham-krishna-p-2bb4781b3/)
 - 📸 [Follow on Instagram](https://www.instagram.com/c_tech_guy)
 
