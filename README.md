@@ -13,7 +13,6 @@
 
 - 👀 I’m passionate about **solving real-world problems with technology**.
 - 🌱 Currently learning **Web Development**, **Software Engineering**, and **Artificial Intelligence**.
-- 🤖 Skilled in building **LLMs**, **regression models**, and other **AI solutions**.
 - 💡 I love creating projects that **simplify human effort** through innovation.
 
 ---
